@@ -1,0 +1,20 @@
+{
+    "image": "Drill Config.162.38",
+    "model_sets": [
+        "Default"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Hard Shiny Plastic Blue #1",
+            "sub_material": "Black"
+        },
+        {
+            "base_material": "Chrome Rough #2",
+            "sub_material": "Anodized Aluminum Brushed 90° Black #1"
+        },
+        {
+            "base_material": "Soft Rough Blue #12",
+            "sub_material": "White"
+        }
+    ]
+}
